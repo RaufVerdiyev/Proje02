@@ -20,7 +20,7 @@ public class PracticeG {
         if (number > -1) {
 
             System.out.print(str.charAt(number));
-            reverseString(str, number - 1);
+            reverseString(str, number - 1);  //???
         }
     }
 }
